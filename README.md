@@ -1,5 +1,5 @@
 # Impacto-Covid-Activar-SIC
-## Repositorio para el proyecto titulato " Medición del impacto de la pandemia en la socialidad humana a partir de la activación del Sistema Inmunológico Conductual"
+## Repositorio para el proyecto titulado " Medición del impacto de la pandemia en la socialidad humana a partir de la activación del Sistema Inmunológico Conductual"
 
 
 ### Carlos Rodríguez- Sickert, José Antonio Muñoz Reyes, Pablo Polo, Paula Pavez, Nohelia Valenzuela, Oriana Figueroa, Gabriela Fajardo, Daniel Torrico, Yerka Freire, Melanie Oyarzun, Ana María Fernández, Ricardo Guzmán, Isabel Behncke, Eduardo Graells, y Denise Laroze.
